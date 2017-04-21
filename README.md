@@ -1,4 +1,4 @@
-# Bivrost
+# Bivrost  [![Join us](https://ssdug-slackin.azurewebsites.net/badge.svg)](https://ssdug-slackin.azurewebsites.net/)
 
 ![Bivrost](/docs/images/bivrost_header.jpg?raw=true "Bivrost")
 
